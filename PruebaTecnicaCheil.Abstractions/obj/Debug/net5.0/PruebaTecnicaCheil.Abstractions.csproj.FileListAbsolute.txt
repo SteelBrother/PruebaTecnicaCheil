@@ -1,0 +1,12 @@
+C:\Users\LARTE GAMER\source\repos\PruebaTecnicaCheil\PruebaTecnicaCheil.Abstractions\bin\Debug\net5.0\PruebaTecnicaCheil.Abstractions.deps.json
+C:\Users\LARTE GAMER\source\repos\PruebaTecnicaCheil\PruebaTecnicaCheil.Abstractions\bin\Debug\net5.0\PruebaTecnicaCheil.Abstractions.dll
+C:\Users\LARTE GAMER\source\repos\PruebaTecnicaCheil\PruebaTecnicaCheil.Abstractions\bin\Debug\net5.0\ref\PruebaTecnicaCheil.Abstractions.dll
+C:\Users\LARTE GAMER\source\repos\PruebaTecnicaCheil\PruebaTecnicaCheil.Abstractions\bin\Debug\net5.0\PruebaTecnicaCheil.Abstractions.pdb
+C:\Users\LARTE GAMER\source\repos\PruebaTecnicaCheil\PruebaTecnicaCheil.Abstractions\obj\Debug\net5.0\PruebaTecnicaCheil.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LARTE GAMER\source\repos\PruebaTecnicaCheil\PruebaTecnicaCheil.Abstractions\obj\Debug\net5.0\PruebaTecnicaCheil.Abstractions.AssemblyInfoInputs.cache
+C:\Users\LARTE GAMER\source\repos\PruebaTecnicaCheil\PruebaTecnicaCheil.Abstractions\obj\Debug\net5.0\PruebaTecnicaCheil.Abstractions.AssemblyInfo.cs
+C:\Users\LARTE GAMER\source\repos\PruebaTecnicaCheil\PruebaTecnicaCheil.Abstractions\obj\Debug\net5.0\PruebaTecnicaCheil.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\LARTE GAMER\source\repos\PruebaTecnicaCheil\PruebaTecnicaCheil.Abstractions\obj\Debug\net5.0\PruebaTecnicaCheil.Abstractions.dll
+C:\Users\LARTE GAMER\source\repos\PruebaTecnicaCheil\PruebaTecnicaCheil.Abstractions\obj\Debug\net5.0\ref\PruebaTecnicaCheil.Abstractions.dll
+C:\Users\LARTE GAMER\source\repos\PruebaTecnicaCheil\PruebaTecnicaCheil.Abstractions\obj\Debug\net5.0\PruebaTecnicaCheil.Abstractions.pdb
+C:\Users\LARTE GAMER\source\repos\PruebaTecnicaCheil\PruebaTecnicaCheil.Abstractions\obj\Debug\net5.0\PruebaTecnicaCheil.Abstractions.csprojAssemblyReference.cache

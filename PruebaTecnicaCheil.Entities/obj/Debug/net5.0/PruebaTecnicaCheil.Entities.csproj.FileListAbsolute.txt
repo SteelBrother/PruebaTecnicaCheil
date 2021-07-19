@@ -1,0 +1,15 @@
+C:\Users\LARTE GAMER\source\repos\PruebaTecnicaCheil\PruebaTecnicaCheil.Entities\bin\Debug\net5.0\PruebaTecnicaCheil.Entities.deps.json
+C:\Users\LARTE GAMER\source\repos\PruebaTecnicaCheil\PruebaTecnicaCheil.Entities\bin\Debug\net5.0\PruebaTecnicaCheil.Entities.dll
+C:\Users\LARTE GAMER\source\repos\PruebaTecnicaCheil\PruebaTecnicaCheil.Entities\bin\Debug\net5.0\ref\PruebaTecnicaCheil.Entities.dll
+C:\Users\LARTE GAMER\source\repos\PruebaTecnicaCheil\PruebaTecnicaCheil.Entities\bin\Debug\net5.0\PruebaTecnicaCheil.Entities.pdb
+C:\Users\LARTE GAMER\source\repos\PruebaTecnicaCheil\PruebaTecnicaCheil.Entities\bin\Debug\net5.0\PruebaTecnicaCheil.Abstractions.dll
+C:\Users\LARTE GAMER\source\repos\PruebaTecnicaCheil\PruebaTecnicaCheil.Entities\bin\Debug\net5.0\PruebaTecnicaCheil.Abstractions.pdb
+C:\Users\LARTE GAMER\source\repos\PruebaTecnicaCheil\PruebaTecnicaCheil.Entities\obj\Debug\net5.0\PruebaTecnicaCheil.Entities.csprojAssemblyReference.cache
+C:\Users\LARTE GAMER\source\repos\PruebaTecnicaCheil\PruebaTecnicaCheil.Entities\obj\Debug\net5.0\PruebaTecnicaCheil.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LARTE GAMER\source\repos\PruebaTecnicaCheil\PruebaTecnicaCheil.Entities\obj\Debug\net5.0\PruebaTecnicaCheil.Entities.AssemblyInfoInputs.cache
+C:\Users\LARTE GAMER\source\repos\PruebaTecnicaCheil\PruebaTecnicaCheil.Entities\obj\Debug\net5.0\PruebaTecnicaCheil.Entities.AssemblyInfo.cs
+C:\Users\LARTE GAMER\source\repos\PruebaTecnicaCheil\PruebaTecnicaCheil.Entities\obj\Debug\net5.0\PruebaTecnicaCheil.Entities.csproj.CoreCompileInputs.cache
+C:\Users\LARTE GAMER\source\repos\PruebaTecnicaCheil\PruebaTecnicaCheil.Entities\obj\Debug\net5.0\PruebaTecnicaCheil.Entities.csproj.CopyComplete
+C:\Users\LARTE GAMER\source\repos\PruebaTecnicaCheil\PruebaTecnicaCheil.Entities\obj\Debug\net5.0\PruebaTecnicaCheil.Entities.dll
+C:\Users\LARTE GAMER\source\repos\PruebaTecnicaCheil\PruebaTecnicaCheil.Entities\obj\Debug\net5.0\ref\PruebaTecnicaCheil.Entities.dll
+C:\Users\LARTE GAMER\source\repos\PruebaTecnicaCheil\PruebaTecnicaCheil.Entities\obj\Debug\net5.0\PruebaTecnicaCheil.Entities.pdb

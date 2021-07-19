@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PruebaTecnicaCheil.Entities/1.0.0": {
+        "dependencies": {
+          "PruebaTecnicaCheil.Abstractions": "1.0.0"
+        },
+        "runtime": {
+          "PruebaTecnicaCheil.Entities.dll": {}
+        }
+      },
+      "PruebaTecnicaCheil.Abstractions/1.0.0": {
+        "runtime": {
+          "PruebaTecnicaCheil.Abstractions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PruebaTecnicaCheil.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PruebaTecnicaCheil.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

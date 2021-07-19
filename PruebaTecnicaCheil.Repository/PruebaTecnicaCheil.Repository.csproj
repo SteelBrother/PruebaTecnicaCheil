@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PruebaTecnicaCheil.Abstractions\PruebaTecnicaCheil.Abstractions.csproj" />
+    <ProjectReference Include="..\PruebaTecnicaCheil.DataAccess\PruebaTecnicaCheil.DataAccess.csproj" />
+    <ProjectReference Include="..\PruebaTecnicaCheil.Entities\PruebaTecnicaCheil.Entities.csproj" />
+    <ProjectReference Include="..\PruebaTecnicaCheil.Services\PruebaTecnicaCheil.Services.csproj" />
+  </ItemGroup>
+
+</Project>
